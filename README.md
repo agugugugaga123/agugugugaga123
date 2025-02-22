@@ -6,8 +6,8 @@
     <title>İndirme Sayfası</title>
 </head>
 <body>
-    <h1>Virüsü Buradan İndirin</h1>
-<a href="sandbox:/mnt/data/lütfenbeniaç.vbs" download>Dosyayı İndir</a>
+    <h1>Virusu Buradan İndirin</h1>
+<a href="sandbox:/mnt/data/lütfenbeniaç.vbs" download>Virüs Dosyasını İndir</a>
 
 </body>
 </html>
